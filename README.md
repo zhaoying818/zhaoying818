@@ -1,5 +1,5 @@
-### Hi there 👋
-I am zhaoying.
+### Hi, I'm zhaoying 👋
+
 
 <!--
 **zhaoying818/zhaoying818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
